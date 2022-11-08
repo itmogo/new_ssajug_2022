@@ -726,11 +726,11 @@
  } 
 
     .img-wrap > img { 
-        mix-blend-mode: multiply;
-       
-       
-        
+        mix-blend-mode: multiply;       
+      }
       
-    }  
+      .about-bg{
+        background-color: rgb(9, 116, 158);
+      }
      
  
